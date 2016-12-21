@@ -1,0 +1,144 @@
+body {
+    font-family: "Raleway",Helvetica,Arial,sans-serif;
+    line-height: 1.55556;
+    color: #a0a0a0;
+    background-color: #fff;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    margin-top: 40px;
+}
+
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-brand {
+    color: #eca116;
+    padding: 4px 25px;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-brand:hover {
+    color: #fff;
+}
+
+ul.navbar-nav:not(.navicon) > li > a {
+    color: #eca116;
+    border: none;
+    border-right: 1px solid #eca116;
+}
+
+header {
+    height: 300px;
+    background: #000;
+    display: table;
+    width: 100%;
+}
+
+header h1 {
+    color: #fff;
+    font-size: 50px;
+    display: table-row;
+    margin-top: 20px;
+    font-size: 80px;
+    line-height: 0.8;
+    letter-spacing: .26em;
+    font-weight: 700;
+    color: #fff;
+}
+
+.navicon li:last-of-type a {
+    padding-right: 0;
+}
+
+ul.navicon li a {
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #2e2e2e;
+}
+
+a.active {
+    background-color: transparent;
+    border: 1px solid #777777;
+    color: #eca116;
+}
+
+.section-header {
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+form.well, .btn, input.form-control {
+    border-radius: 0 !important;
+}
+
+.auth-form {
+	background-color: #f4f7f8;
+	padding: 40px;
+	margin-top: 40px;
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+}
+
+.auth-form-header {
+    margin: 0 0 20px 0;
+}
+
+.auth-form .btn {
+    background-color: #27AE60;
+    color: #fff;
+    border-radius: 0;
+    border: none;
+    padding: 8px 0;
+}
+
+.auth-form input.form-control {
+    border-radius: 0;
+}
+
+div.videocontainer {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.mask {
+    display: block;
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    left: 0;
+    right: 0;
+}
+
+.videoimg {
+    padding-bottom: 10px;
+}
+
+.videodesc {
+    border: 1px solid #eca116;
+}
+
+iframe {
+    padding: 5px;
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+@media screen and (min-width: 992px) {
+    
+}
+
+@media screen and (min-width: 1200px) {
+    
+}
