@@ -4,7 +4,7 @@
   "description": "React Excercise App",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch webpack.config.js ./node_modules/.bin/webpack-dev-server",
+    "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "TM uidev4",
