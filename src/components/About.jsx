@@ -31,17 +31,17 @@ var About = React.createClass({
 						<h2 className='section-header text-center'>Events</h2>
 						<div className='row'>
 							<div className='col-md-4'>
-							<img src='images/about-02.jpg'/>
+							<img src='https://cloud.githubusercontent.com/assets/11888590/21391632/2f6e6fbc-c795-11e6-863f-1fc9656b6961.jpg'/>
 							<h4><Link to='#'>The Yoga Expo 2016 Los Angeles</Link></h4>
 							<p>The Yoga Expo is an all-day yoga event featuring local & national teachers. Studios showcase their unique styles of mind & body practice. The Yoga Expo serves as a platform to empower and strengthen the local yoga community.</p>
 							</div>
 							<div className='col-md-4'>
-								<img src='images/about-03.jpg'/>
+								<img src='https://cloud.githubusercontent.com/assets/11888590/21391631/2f6b7ea6-c795-11e6-9279-afee8b6835c3.jpg'/>
 								<h4><Link to='#'>Fitness Body Boom Bootcamp</Link></h4>
 								<p>Body Boom Bootcamp is an intensive six week course created by WELLBEING, to reduce weight and body fat in the quickest amount of time. Body Boom Bootcamp is challenging mentally and physically, fun and pushes you to your absolute limit.</p>
 							</div>
 							<div className='col-md-4'>
-								<img src='images/about-04.jpg'/>
+								<img src='https://cloud.githubusercontent.com/assets/11888590/21391633/2f6e4fbe-c795-11e6-9948-2655a9c508e1.jpg'/>
 								<h4><Link to='#'>The WELLBEING Challenge</Link></h4>
 								<p>As WELLBEING is an Explosive New Health Movement in Chicago, we are dedicated to restoring Health. Our upcoming event called “The WELLBEING Challenge” is open to anyone above the age of 16 looking to transform their wellbeing.</p>
 							</div>
