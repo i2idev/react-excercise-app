@@ -5,6 +5,7 @@ How to use:
 <li>Clone the repo</li>
 <li>cd to the app directory, <code>cd react-excercise-app</code></li>
 <li>Run <code>npm install</code></li>
+<li>Run <code>npm install webpack-dev-server -g</code></li>
 <li>Run <code>webpack-dev-server</code></li>
 <li>Go to url: localhost:8080/app</li>
 </ul>
