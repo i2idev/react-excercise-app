@@ -45,6 +45,7 @@ header h1 {
     letter-spacing: .26em;
     font-weight: 700;
     color: #fff;
+    text-transform: uppercase;
 }
 
 .navicon li:last-of-type a {
